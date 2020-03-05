@@ -1,0 +1,1122 @@
+<transmilenio>
+	<rutas>
+		<id>1</id>
+		<ruta1>Troncal Caracas</ruta1>
+		<ruta2>Troncal Calle 80</ruta2>
+		<letra1>A</letra1>
+		<letra2>D</letra2>
+	</rutas>
+	<rutas>
+		<id>2</id>
+		<ruta1>Troncal NQS Central</ruta1>
+		<ruta2>Troncal Norte</ruta2>
+		<letra1>A</letra1>
+		<letra2>D</letra2>
+	</rutas>
+	<rutas>
+		<id>3</id>
+		<ruta1>Troncal Eje Ambiental</ruta1>
+		<ruta2>Troncal Americas</ruta2>
+		<letra1>J</letra1>
+		<letra2>F</letra2>
+	</rutas>
+	<rutas>
+		<id>4</id>
+		<ruta1>Troncal Caracas Sur</ruta1>
+		<ruta2>Troncal Calle 26</ruta2>
+		<letra1>H</letra1>
+		<letra2>K</letra2>
+	</rutas>
+	<rutas>
+		<id>5</id>
+		<ruta1>Troncal Carrera 7</ruta1>
+		<ruta2>Troncal Carrera 10</ruta2>
+		<letra1>L</letra1>
+		<letra2>M</letra2>
+	</rutas>
+	<!--- TRONCAL A - D -->
+	<troncal letra="A" nombre="Caracas" >
+		<cantidadEstaciones>15</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>01</id>
+				<nombre>Tercer Milenio</nombre>
+				<latitud>4.59806841</latitud>
+				<longitud>-74.08387132</longitud>
+			</estacion>
+			<estacion>
+				<id>02</id>
+				<nombre>AV. Jimenez</nombre>
+				<latitud>4.60248283</latitud>
+				<longitud>-74.08072419</longitud>
+			</estacion>
+			<estacion>
+				<id>03</id>
+				<nombre>Calle 19</nombre>
+				<latitud>4.60777953</latitud>
+				<longitud>-74.0769112</longitud>
+			</estacion>
+			<estacion>
+				<id>04</id>
+				<nombre>Calle 22</nombre>
+				<latitud>4.61161767</latitud>
+				<longitud>-74.07469708</longitud>
+			</estacion>
+			<estacion>
+				<id>05</id>
+				<nombre>Calle 26</nombre>
+				<latitud>4.6166085</latitud>
+				<longitud>-74.07217044</longitud>
+			</estacion>
+			<estacion>
+				<id>06</id>
+				<nombre>Profamilia</nombre>
+				<latitud>4.62134231</latitud>
+				<longitud>-74.06979522</longitud>
+			</estacion>
+			<estacion>
+				<id>07</id>
+				<nombre>AV. 39</nombre>
+				<latitud>4.62673204</latitud>
+				<longitud>-74.06861505</longitud>
+			</estacion>
+			<estacion>
+				<id>08</id>
+				<nombre>Calle 45</nombre>
+				<latitud>4.63138244</latitud>
+				<longitud>-74.06785489</longitud>
+			</estacion>
+			<estacion>
+				<id>09</id>
+				<nombre>Marly</nombre>
+				<latitud>4.63740887</latitud>
+				<longitud>-74.06681051</longitud>
+			</estacion>
+			<estacion>
+				<id>10</id>
+				<nombre>Calle 57</nombre>
+				<latitud>4.64288403</latitud>
+				<longitud>-74.06573762</longitud>
+			</estacion>
+			<estacion>
+				<id>11</id>
+				<nombre>Calle 63</nombre>
+				<latitud>4.64828363</latitud>
+				<longitud>-74.06489172</longitud>
+			</estacion>
+			<estacion>
+				<id>12</id>
+				<nombre>Flores</nombre>
+				<latitud>4.65480666</latitud>
+				<longitud>-74.0630249</longitud>
+			</estacion>
+			<estacion>
+				<id>13</id>
+				<nombre>Calle 72</nombre>
+				<latitud>4.65814468</latitud>
+				<longitud>-74.06208043</longitud>
+			</estacion>
+			<estacion>
+				<id>14</id>
+				<nombre>Calle 76</nombre>
+				<latitud>4.66295669</latitud>
+				<longitud>-74.06124358</longitud>
+			</estacion>
+			<estacion>
+				<id>15</id>
+				<nombre>Heroes</nombre>
+				<latitud>4.66848512</latitud>
+				<longitud>-74.06015343</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<troncal letra="D" nombre="CL 80">
+		<letra>D</letra>
+		<nombre>Troncal CL 80</nombre>
+		<cantidadEstaciones>14</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>15</id>
+				<nombre>Heroes</nombre>
+				<latitud>4.66848995</latitud>
+				<longitud>-74.06026392</longitud>
+			</estacion>
+			<estacion>
+				<id>49</id>
+				<nombre>Polo</nombre>
+				<latitud>4.67078003</latitud>
+				<longitud>-74.06483248</longitud>
+			</estacion>
+			<estacion>
+				<id>33</id>
+				<nombre>Escuela Militar</nombre>
+				<latitud>4.67553914</latitud>
+				<longitud>-74.06979893</longitud>
+			</estacion>
+			<estacion>
+				<id>51</id>
+				<nombre>Carrera 47</nombre>
+				<latitud>4.6779761</latitud>
+				<longitud>-74.07363578</longitud>
+			</estacion>
+			<estacion>
+				<id>52</id>
+				<nombre>Carrera 53</nombre>
+				<latitud>4.68179296</latitud>
+				<longitud>-74.07739375</longitud>
+			</estacion>
+			<estacion>
+				<id>53</id>
+				<nombre>Avenida 68</nombre>
+				<latitud>4.68581132</latitud>
+				<longitud>-74.08055766</longitud>
+			</estacion>
+			<estacion>
+				<id>54</id>
+				<nombre>Ferias</nombre>
+				<latitud>4.69094928</latitud>
+				<longitud>-74.08463915</longitud>
+			</estacion>
+			<estacion>
+				<id>55</id>
+				<nombre>Boyaca</nombre>
+				<latitud>4.69397709</latitud>
+				<longitud>-74.08715458</longitud>
+			</estacion>
+			<estacion>
+				<id>56</id>
+				<nombre>Minuto de Dios</nombre>
+				<latitud>4.69670262</latitud>
+				<longitud>-74.09156652</longitud>
+			</estacion>
+			<estacion>
+				<id>57</id>
+				<nombre>Granja - Carrera 77</nombre>
+				<latitud>4.69864131</latitud>
+				<longitud>-74.09447506</longitud>
+			</estacion>
+			<estacion>
+				<id>58</id>
+				<nombre>Avenida Cali</nombre>
+				<latitud>4.70241773</latitud>
+				<longitud>-74.10085897</longitud>
+			</estacion>
+			<estacion>
+				<id>59</id>
+				<nombre>Carrera 90</nombre>
+				<latitud>4.70470307</latitud>
+				<longitud>-74.10463537</longitud>
+			</estacion>
+			<estacion>
+				<id>60</id>
+				<nombre>Quirigua</nombre>
+				<latitud>4.70680435</latitud>
+				<longitud>-74.10882127</longitud>
+			</estacion>
+			<estacion>
+				<id>61</id>
+				<nombre>PORTAL DE LA 80</nombre>
+				<latitud>4.70989042</latitud>
+				<longitud>-74.11135024</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<!--- TRONCAL A - D -->
+
+
+
+	<!--- TRONCAL E - B -->
+	<troncal letra="E" nombre="NQS Central">
+		<letra>E</letra>
+		<nombre>Troncal NQS Central</nombre>
+		<cantidadEstaciones>17</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>62</id>
+				<nombre>BICENTENARIO</nombre>
+				<latitud>4.5936863</latitud>
+				<longitud>-74.08141968</longitud>
+			</estacion>
+			<estacion>
+				<id>63</id>
+				<nombre>Tygua - San Jose </nombre>
+				<latitud>4.59977511</latitud>
+				<longitud>-74.08869412</longitud>
+			</estacion>
+			<estacion>
+				<id>64</id>
+				<nombre>Guatoque - Veraguas</nombre>
+				<latitud>4.60408495</latitud>
+				<longitud>-74.09489156</longitud>
+			</estacion>
+			<estacion>
+				<id>65</id>
+				<nombre>Comuneros</nombre>
+				<latitud>4.60421101</latitud>
+				<longitud>-74.09989748</longitud>
+			</estacion>
+			<estacion>
+				<id>66</id>
+				<nombre>Ricaurte</nombre>
+				<latitud>4.61362208</latitud>
+				<longitud>-74.09175469</longitud>
+			</estacion>
+			<estacion>
+				<id>67</id>
+				<nombre>Paloquemao</nombre>
+				<latitud>4.6167841</latitud>
+				<longitud>-74.0896764</longitud>
+			</estacion>
+			<estacion>
+				<id>68</id>
+				<nombre>CAD</nombre>
+				<latitud>4.62339598</latitud>
+				<longitud>-74.08423323</longitud>
+			</estacion>
+			<estacion>
+				<id>69</id>
+				<nombre>AV. El Dorado</nombre>
+				<latitud>4.63054435</latitud>
+				<longitud>-74.07990553</longitud>
+			</estacion>
+			<estacion>
+				<id>70</id>
+				<nombre>U. Nacional</nombre>
+				<latitud>4.63704096</latitud>
+				<longitud>-74.07934541</longitud>
+			</estacion>
+			<estacion>
+				<id>71</id>
+				<nombre>Campin</nombre>
+				<latitud>4.64532982</latitud>
+				<longitud>-74.07870512</longitud>
+			</estacion>
+			<estacion>
+				<id>72</id>
+				<nombre>Coliseo</nombre>
+				<latitud>4.64989555</latitud>
+				<longitud>-74.07836775</longitud>
+			</estacion>
+			<estacion>
+				<id>73</id>
+				<nombre>Simon Bolivar</nombre>
+				<latitud>4.65717638</latitud>
+				<longitud>-74.07770872</longitud>
+			</estacion>
+			<estacion>
+				<id>74</id>
+				<nombre>AV. Chile</nombre>
+				<latitud>4.66503429</latitud>
+				<longitud>-74.0756031</longitud>
+			</estacion>
+			<estacion>
+				<id>75</id>
+				<nombre>NQS Calle 75</nombre>
+				<latitud>4.67083408</latitud>
+				<longitud>-74.07075474</longitud>
+			</estacion>
+			<estacion>
+				<id>33</id>
+				<nombre>Escuela Militar</nombre>
+				<latitud>4.6755354</latitud>
+				<longitud>-74.06979717</longitud>
+			</estacion>
+			<estacion>
+				<id>77</id>
+				<nombre>La Castellana</nombre>
+				<latitud>4.67554227</latitud>
+				<longitud>-74.06466836</longitud>
+			</estacion>
+			<estacion>
+				<id>19</id>
+				<nombre>Calle 100</nombre>
+				<latitud>4.68422705</latitud>
+				<longitud>-74.0576524</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<troncal letra="B" nombre="Norte">
+		<letra>B</letra>
+		<nombre>Troncal Norte</nombre>
+		<cantidadEstaciones>17</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>15</id>
+				<nombre>Heroes</nombre>
+				<latitud>4.66848512</latitud>
+				<longitud>-74.06015343</longitud>
+			</estacion>
+			<estacion>
+				<id>17</id>
+				<nombre>Calle 85</nombre>
+				<latitud>4.67141924</latitud>
+				<longitud>-74.05971279</longitud>
+			</estacion>
+			<estacion>
+				<id>18</id>
+				<nombre>Virrey</nombre>
+				<latitud>4.67576434</latitud>
+				<longitud>-74.05906403</longitud>
+			</estacion>
+			<estacion>
+				<id>19</id>
+				<nombre>Calle 100</nombre>
+				<latitud>4.6841325</latitud>
+				<longitud>-74.05766929</longitud>
+			</estacion>
+			<estacion>
+				<id>20</id>
+				<nombre>Calle 106</nombre>
+				<latitud>4.69403473</latitud>
+				<longitud>-74.05590892</longitud>
+			</estacion>
+			<estacion>
+				<id>21</id>
+				<nombre>Pepe Sierra</nombre>
+				<latitud>4.69793385</latitud>
+				<longitud>-74.05528941</longitud>
+			</estacion>
+			<estacion>
+				<id>22</id>
+				<nombre>Calle 127</nombre>
+				<latitud>4.70444949</latitud>
+				<longitud>-74.05425668</longitud>
+			</estacion>
+			<estacion>
+				<id>23</id>
+				<nombre>Prado</nombre>
+				<latitud>4.71452887</latitud>
+				<longitud>-74.05261341</longitud>
+			</estacion>
+			<estacion>
+				<id>24</id>
+				<nombre>Alcala</nombre>
+				<latitud>4.72105103</latitud>
+				<longitud>-74.05144824</longitud>
+			</estacion>
+			<estacion>
+				<id>25</id>
+				<nombre>Calle 142</nombre>
+				<latitud>4.72781781</latitud>
+				<longitud>-74.05029288</longitud>
+			</estacion>
+			<estacion>
+				<id>26</id>
+				<nombre>Calle 146</nombre>
+				<latitud>4.73057642</latitud>
+				<longitud>-74.0499281</longitud>
+			</estacion>
+			<estacion>
+				<id>27</id>
+				<nombre>Mazuren</nombre>
+				<latitud>4.73339918</latitud>
+				<longitud>-74.04932728</longitud>
+			</estacion>
+			<estacion>
+				<id>28</id>
+				<nombre>Cardio Infantil</nombre>
+				<latitud>4.74300518</latitud>
+				<longitud>-74.0477721</longitud>
+			</estacion>
+			<estacion>
+				<id>29</id>
+				<nombre>Toberin</nombre>
+				<latitud>4.74695723</latitud>
+				<longitud>-74.04711178</longitud>
+			</estacion>
+			<estacion>
+				<id>30</id>
+				<nombre>PORTAL DEL NORTE</nombre>
+				<latitud>4.75448439</latitud>
+				<longitud>-74.04606035</longitud>
+			</estacion>
+			<estacion>
+				<id>31</id>
+				<nombre>Calle 187</nombre>
+				<latitud>4.76313008</latitud>
+				<longitud>-74.04434374</longitud>
+			</estacion>
+			<estacion>
+				<id>32</id>
+				<nombre>Terminal</nombre>
+				<latitud>4.7688155</latitud>
+				<longitud>-74.04338929</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<!--- TRONCAL E - B -->
+
+
+
+	<!--- TRONCAL J - F -->
+	<troncal letra="J" nombre="Eje Ambiental">
+		<letra>J</letra>
+		<nombre>Troncal Eje Ambiental</nombre>
+		<cantidadEstaciones>4</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>134</id>
+				<nombre>"Universidades"</nombre>
+				<latitud>"4.6044675"</latitud>
+				<longitud>"-74.06738768"</longitud>
+			</estacion>
+			<estacion>
+				<id>133</id>
+				<nombre>"Las Aguas"</nombre>
+				<latitud>"4.60252832"</latitud>
+				<longitud>"-74.06841132"</longitud>
+			</estacion>
+			<estacion>
+				<id>132</id>
+				<nombre>"Museo del Oro"</nombre>
+				<latitud>"4.60115482"</latitud>
+				<longitud>"-74.0728877"</longitud>
+			</estacion>
+			<estacion>
+				<id>2</id>
+				<nombre>"AV. Jimenez"</nombre>
+				<latitud>"4.60301052"</latitud>
+				<longitud>"-74.07902765"</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<troncal letra="F" nombre="Americas">
+		<letra>F</letra>
+		<nombre>Troncal Americas</nombre>
+		<cantidadEstaciones>18</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>2</id>
+				<nombre>AV. Jimenez</nombre>
+				<latitud>4.60314134</latitud>
+				<longitud>-74.07986612</longitud>
+			</estacion>
+			<estacion>
+				<id>80</id>
+				<nombre>De la Sabana</nombre>
+				<latitud>4.60539786</latitud>
+				<longitud>-74.08188102</longitud>
+			</estacion>
+			<estacion>
+				<id>81</id>
+				<nombre>San Facon - KR 22</nombre>
+				<latitud>4.60963636</latitud>
+				<longitud>-74.08667002</longitud>
+			</estacion>
+			<estacion>
+				<id>66</id>
+				<nombre>Ricaurte</nombre>
+				<latitud>4.61360289</latitud>
+				<longitud>-74.09175251</longitud>
+			</estacion>
+			<estacion>
+				<id>83</id>
+				<nombre>CDS - Carrera 32</nombre>
+				<latitud>4.61611397</latitud>
+				<longitud>-74.09394237</longitud>
+			</estacion>
+			<estacion>
+				<id>84</id>
+				<nombre>Zona Industrial</nombre>
+				<latitud>4.62036657</latitud>
+				<longitud>-74.09872825</longitud>
+			</estacion>
+			<estacion>
+				<id>85</id>
+				<nombre>Carrera 43</nombre>
+				<latitud>4.6227904</latitud>
+				<longitud>-74.10144639</longitud>
+			</estacion>
+			<estacion>
+				<id>86</id>
+				<nombre>Puente Aranda</nombre>
+				<latitud>4.62579257</latitud>
+				<longitud>-74.10475697</longitud>
+			</estacion>
+			<estacion>
+				<id>87</id>
+				<nombre>Americas KR 53A</nombre>
+				<latitud>4.62794446</latitud>
+				<longitud>-74.11170691</longitud>
+			</estacion>
+			<estacion>
+				<id>88</id>
+				<nombre>Pradera</nombre>
+				<latitud>4.62853581</latitud>
+				<longitud>-74.1187158</longitud>
+			</estacion>
+			<estacion>
+				<id>89</id>
+				<nombre>Marsella</nombre>
+				<latitud>4.6297142</latitud>
+				<longitud>-74.1302305</longitud>
+			</estacion>
+			<estacion>
+				<id>90</id>
+				<nombre>Mundo Aventura</nombre>
+				<latitud>4.63012516</latitud>
+				<longitud>-74.13422615</longitud>
+			</estacion>
+			<estacion>
+				<id>91</id>
+				<nombre>Mandalay</nombre>
+				<latitud>4.63083179</latitud>
+				<longitud>-74.14135605</longitud>
+			</estacion>
+			<estacion>
+				<id>92</id>
+				<nombre>Banderas</nombre>
+				<latitud>4.63133275</latitud>
+				<longitud>-74.14560563</longitud>
+			</estacion>
+			<estacion>
+				<id>93</id>
+				<nombre>Transversal 86</nombre>
+				<latitud>4.63419499</latitud>
+				<longitud>-74.1520527</longitud>
+			</estacion>
+			<estacion>
+				<id>94</id>
+				<nombre>Biblioteca Tintal</nombre>
+				<latitud>4.63883943</latitud>
+				<longitud>-74.15842087</longitud>
+			</estacion>
+			<estacion>
+				<id>95</id>
+				<nombre>Patio Bonito </nombre>
+				<latitud>4.63314031</latitud>
+				<longitud>-74.16466241</longitud>
+			</estacion>
+			<estacion>
+				<id>96</id>
+				<nombre>Portal de las Americas</nombre>
+				<latitud>4.62912776</latitud>
+				<longitud>-74.17300784</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<!--- TRONCAL J - F -->
+
+
+
+	<!--- TRONCAL H - K -->
+	<troncal letra="H" nombre="Caracas Sur">
+		<letra>H</letra>
+		<nombre>Troncal Caracas Sur</nombre>
+		<cantidadEstaciones>14</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>130</id>
+				<nombre>PORTAL USME</nombre>
+				<latitud>4.53165582</latitud>
+				<longitud>-74.11927074</longitud>
+			</estacion>
+			<estacion>
+				<id>129</id>
+				<nombre>Molinos</nombre>
+				<latitud>4.55708124</latitud>
+				<longitud>-74.12183403</longitud>
+			</estacion>
+			<estacion>
+				<id>128</id>
+				<nombre>Consuelo</nombre>
+				<latitud>4.56014828</latitud>
+				<longitud>-74.12385363</longitud>
+			</estacion>
+			<estacion>
+				<id>127</id>
+				<nombre>Socorro</nombre>
+				<latitud>4.5646615</latitud>
+				<longitud>-74.12558743</longitud>
+			</estacion>
+			<estacion>
+				<id>123</id>
+				<nombre>Santa Lucia</nombre>
+				<latitud>4.57091806</latitud>
+				<longitud>-74.12470458</longitud>
+			</estacion>
+			<estacion>
+				<id>122</id>
+				<nombre>Calle 40 Sur</nombre>
+				<latitud>4.57599807</latitud>
+				<longitud>-74.12010763</longitud>
+			</estacion>
+			<estacion>
+				<id>121</id>
+				<nombre>Quirigua</nombre>
+				<latitud>4.57683045</latitud>
+				<longitud>-74.11436993</longitud>
+			</estacion>
+			<estacion>
+				<id>120</id>
+				<nombre>Olaya</nombre>
+				<latitud>4.5788608</latitud>
+				<longitud>-74.10749331</longitud>
+			</estacion>
+			<estacion>
+				<id>119</id>
+				<nombre>Restrepo</nombre>
+				<latitud>4.5818012</latitud>
+				<longitud>-74.10149555</longitud>
+			</estacion>
+			<estacion>
+				<id>118</id>
+				<nombre>Fucha</nombre>
+				<latitud>4.58295005</latitud>
+				<longitud>-74.09948411</longitud>
+			</estacion>
+			<estacion>
+				<id>117</id>
+				<nombre>Nariño</nombre>
+				<latitud>4.58643047</latitud>
+				<longitud>-74.09379103</longitud>
+			</estacion>
+			<estacion>
+				<id>116</id>
+				<nombre>Hortua</nombre>
+				<latitud>4.59073584</latitud>
+				<longitud>-74.0903213</longitud>
+			</estacion>
+			<estacion>
+				<id>115</id>
+				<nombre>Hospital</nombre>
+				<latitud>4.59491709</latitud>
+				<longitud>-74.08630895</longitud>
+			</estacion>
+			<estacion>
+				<id>1</id>
+				<nombre>Tercer Milenio</nombre>
+				<latitud>4.5981149</latitud>
+				<longitud>-74.083859</longitud>
+			</estacion>
+			<estacion>
+				<id>02</id>
+				<nombre>AV. Jimenez</nombre>
+				<latitud>4.60248283</latitud>
+				<longitud>-74.08072419</longitud>
+			</estacion>
+			<estacion>
+				<id>03</id>
+				<nombre>Calle 19</nombre>
+				<latitud>4.60777953</latitud>
+				<longitud>-74.0769112</longitud>
+			</estacion>
+			<estacion>
+				<id>04</id>
+				<nombre>Calle 22</nombre>
+				<latitud>4.61161767</latitud>
+				<longitud>-74.07469708</longitud>
+			</estacion>
+			<estacion>
+				<id>05</id>
+				<nombre>Calle 26</nombre>
+				<latitud>4.6166085</latitud>
+				<longitud>-74.07217044</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<troncal letra="K" nombre="CL 26">
+		<letra>K</letra>
+		<nombre>Troncal CL 26</nombre>
+		<cantidadEstaciones>15</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>05</id>
+				<nombre>Calle 26</nombre>
+				<latitud>4.6166085</latitud>
+				<longitud>-74.07217044</longitud>
+			</estacion>
+			<estacion>
+				<id>136</id>
+				<nombre>Centro Memoria</nombre>
+				<latitud>4.62055463</latitud>
+				<longitud>-74.07636602</longitud>
+			</estacion>
+			<estacion>
+				<id>137</id>
+				<nombre>Plaza de la Democracia</nombre>
+				<latitud>4.62603349</latitud>
+				<longitud>-74.08031189</longitud>
+			</estacion>
+			<estacion>
+				<id>138</id>
+				<nombre>Ciudad Universitaria</nombre>
+				<latitud>4.63094527</latitud>
+				<longitud>-74.08358301</longitud>
+			</estacion>
+			<estacion>
+				<id>139</id>
+				<nombre>Corferias</nombre>
+				<latitud>4.63435974</latitud>
+				<longitud>-74.08981638</longitud>
+			</estacion>
+			<estacion>
+				<id>140</id>
+				<nombre>Quinta Paredes</nombre>
+				<latitud>4.63761297</latitud>
+				<longitud>-74.09316996</longitud>
+			</estacion>
+			<estacion>
+				<id>141</id>
+				<nombre>Gobernacion</nombre>
+				<latitud>4.64301729</latitud>
+				<longitud>-74.09671873</longitud>
+			</estacion>
+			<estacion>
+				<id>142</id>
+				<nombre>CAN</nombre>
+				<latitud>4.6469942</latitud>
+				<longitud>-74.09910552</longitud>
+			</estacion>
+			<estacion>
+				<id>143</id>
+				<nombre>Salitre - Elm Greco</nombre>
+				<latitud>4.6509983</latitud>
+				<longitud>-74.10176354</longitud>
+			</estacion>
+			<estacion>
+				<id>144</id>
+				<nombre>El Tiempo - Maloka</nombre>
+				<latitud>4.65721686</latitud>
+				<longitud>-74.10577703</longitud>
+			</estacion>
+			<estacion>
+				<id>145</id>
+				<nombre>AV. Rojas</nombre>
+				<latitud>4.66200912</latitud>
+				<longitud>-74.10880948</longitud>
+			</estacion>
+			<estacion>
+				<id>146</id>
+				<nombre>Normandia</nombre>
+				<latitud>4.66893793</latitud>
+				<longitud>-74.11327517</longitud>
+			</estacion>
+			<estacion>
+				<id>147</id>
+				<nombre>Modelia</nombre>
+				<latitud>4.67522697</latitud>
+				<longitud>-74.11714358</longitud>
+			</estacion>
+			<estacion>
+				<id>148</id>
+				<nombre>PORTAL EL DORADO</nombre>
+				<latitud>4.68214134</latitud>
+				<longitud>-74.12178206</longitud>
+			</estacion>
+			<estacion>
+				<id>149</id>
+				<nombre>Aeropuerto ElDorado</nombre>
+				<latitud>4.69687729</latitud>
+				<longitud>-74.14068485</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<!--- TRONCAL H - K -->
+
+
+
+	<!--- TRONCAL L - M -->
+	<troncal letra="M" nombre="CR 7">
+		<letra>M</letra>
+		<nombre>Troncal CR 7</nombre>
+		<cantidadEstaciones>2</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>162</id>
+				<nombre>OTROS</nombre>
+				<latitud>4.63450974</latitud>
+				<longitud>-74.06576067</longitud>
+			</estacion>
+			<estacion>
+				<id>150</id>
+				<nombre>Museo Nacional</nombre>
+				<latitud>4.61522065</latitud>
+				<longitud>-74.06921697</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<troncal letra="L" nombre="CR 10">
+		<letra>L</letra>
+		<nombre>Troncal CR 10</nombre>
+		<cantidadEstaciones>11</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>150</id>
+				<nombre>Museo Nacional</nombre>
+				<latitud>4.61606605</latitud>
+				<longitud>-74.06895274</longitud>
+			</estacion>
+			<estacion>
+				<id>151</id>
+				<nombre>San Diego</nombre>
+				<latitud>4.61521007</latitud>
+				<longitud>-74.06921599</longitud>
+			</estacion>
+			<estacion>
+				<id>152</id>
+				<nombre>Las Nieves</nombre>
+				<latitud>4.60600653</latitud>
+				<longitud>-74.07431964</longitud>
+			</estacion>
+			<estacion>
+				<id>153</id>
+				<nombre>San Victorino</nombre>
+				<latitud>4.60097036</latitud>
+				<longitud>-74.07741736</longitud>
+			</estacion>
+			<estacion>
+				<id>62</id>
+				<nombre>Bicentenario</nombre>
+				<latitud>4.59368916</latitud>
+				<longitud>-74.08141471</longitud>
+			</estacion>
+			<estacion>
+				<id>155</id>
+				<nombre>Hospitales</nombre>
+				<latitud>4.59011721</latitud>
+				<longitud>-74.0843546</longitud>
+			</estacion>
+			<estacion>
+				<id>156</id>
+				<nombre>Policarpa</nombre>
+				<latitud>4.58619617</latitud>
+				<longitud>-74.08696431</longitud>
+			</estacion>
+			<estacion>
+				<id>157</id>
+				<nombre>Ciudad Jardin - UAN</nombre>
+				<latitud>4.58144605</latitud>
+				<longitud>-74.09040481</longitud>
+			</estacion>
+			<estacion>
+				<id>158</id>
+				<nombre>AV. 1 Mayo</nombre>
+				<latitud>4.57639051</latitud>
+				<longitud>-74.09354639</longitud>
+			</estacion>
+			<estacion>
+				<id>159</id>
+				<nombre>Country Sur</nombre>
+				<latitud>4.57140749</latitud>
+				<longitud>-74.09863016</longitud>
+			</estacion>
+			<estacion>
+				<id>160</id>
+				<nombre>PORTAL 20 DE JULIO</nombre>
+				<latitud>4.56548625</latitud>
+				<longitud>-74.09732338</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<!--- TRONCAL L - M -->
+
+
+
+	<troncal letra="G" nombre="NQS Sur">
+		<letra>G</letra>
+		<nombre>Troncal NQS Sur</nombre>
+		<cantidadEstaciones>17</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>65</id>
+				<nombre>Comuneros</nombre>
+				<latitud>4.60422678</latitud>
+				<longitud>-74.09990241</longitud>
+			</estacion>
+			<estacion>
+				<id>98</id>
+				<nombre>Santa Isabel</nombre>
+				<latitud>4.60150875</latitud>
+				<longitud>-74.10280734</longitud>
+			</estacion>
+			<estacion>
+				<id>99</id>
+				<nombre>SENA</nombre>
+				<latitud>4.5973441</latitud>
+				<longitud>-74.11078367</longitud>
+			</estacion>
+			<estacion>
+				<id>100</id>
+				<nombre>NQS - Cl 30 S</nombre>
+				<latitud>4.59478103</latitud>
+				<longitud>-74.11806968</longitud>
+			</estacion>
+			<estacion>
+				<id>101</id>
+				<nombre>NQS - Cl 38A S.</nombre>
+				<latitud>4.59379807</latitud>
+				<longitud>-74.12376292</longitud>
+			</estacion>
+			<estacion>
+				<id>102</id>
+				<nombre>General Santander</nombre>
+				<latitud>4.59358688</latitud>
+				<longitud>-74.12955967</longitud>
+			</estacion>
+			<estacion>
+				<id>103</id>
+				<nombre>Alqueria</nombre>
+				<latitud>4.59427601</latitud>
+				<longitud>-74.13425744</longitud>
+			</estacion>
+			<estacion>
+				<id>104</id>
+				<nombre>Venecia</nombre>
+				<latitud>4.5955614</latitud>
+				<longitud>-74.14277163</longitud>
+			</estacion>
+			<estacion>
+				<id>105</id>
+				<nombre>Sevillana</nombre>
+				<latitud>4.59510332</latitud>
+				<longitud>-74.14745043</longitud>
+			</estacion>
+			<estacion>
+				<id>106</id>
+				<nombre>Madelena</nombre>
+				<latitud>4.59628618</latitud>
+				<longitud>-74.15699553</longitud>
+			</estacion>
+			<estacion>
+				<id>107</id>
+				<nombre>Perdomo</nombre>
+				<latitud>4.595798</latitud>
+				<longitud>-74.1649861</longitud>
+			</estacion>
+			<estacion>
+				<id>108</id>
+				<nombre>PORTAL DEL SUR</nombre>
+				<latitud>4.59716817</latitud>
+				<longitud>-74.16939297</longitud>
+			</estacion>
+			<estacion>
+				<id>109</id>
+				<nombre>Bosa</nombre>
+				<latitud>4.59690081</latitud>
+				<longitud>-74.18128878</longitud>
+			</estacion>
+			<estacion>
+				<id>110</id>
+				<nombre>La Despensa</nombre>
+				<latitud>4.59458494</latitud>
+				<longitud>-74.18819643</longitud>
+			</estacion>
+			<estacion>
+				<id>111</id>
+				<nombre>Leon XIII</nombre>
+				<latitud>4.59218959</latitud>
+				<longitud>-74.19308731</longitud>
+			</estacion>
+			<estacion>
+				<id>112</id>
+				<nombre>Terreros - Hospital C.V.</nombre>
+				<latitud>4.58854569</latitud>
+				<longitud>-74.2003828</longitud>
+			</estacion>
+			<estacion>
+				<id>113</id>
+				<nombre>San Mateo</nombre>
+				<latitud>4.5865231</latitud>
+				<longitud>-74.20574086</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+	<troncal letra="C" nombre="Suba">
+		<letra>C</letra>
+		<nombre>Troncal Suba</nombre>
+		<cantidadEstaciones>15</cantidadEstaciones>
+		<estaciones>
+			<estacion>
+				<id>33</id>
+				<nombre>Escuela Militar</nombre>
+				<latitud>4.6755444</latitud>
+				<longitud>-74.06979704</longitud>
+			</estacion>
+			<estacion>
+				<id>34</id>
+				<nombre>San Martin</nombre>
+				<latitud>4.67639582</latitud>
+				<longitud>-74.06708459</longitud>
+			</estacion>
+			<estacion>
+				<id>35</id>
+				<nombre>Rionegro</nombre>
+				<latitud>4.68041095</latitud>
+				<longitud>-74.06476088</longitud>
+			</estacion>
+			<estacion>
+				<id>36</id>
+				<nombre>Suba Cl. 95</nombre>
+				<latitud>4.68465023</latitud>
+				<longitud>-74.06321132</longitud>
+			</estacion>
+			<estacion>
+				<id>37</id>
+				<nombre>Suba Cl. 100</nombre>
+				<latitud>4.69050602</latitud>
+				<longitud>74.06566589</longitud>
+			</estacion>
+			<estacion>
+				<id>38</id>
+				<nombre>Puente Largo</nombre>
+				<latitud>4.6933776</latitud>
+				<longitud>-74.06720081</longitud>
+			</estacion>
+			<estacion>
+				<id>39</id>
+				<nombre>Shaio</nombre>
+				<latitud>4.69923589</latitud>
+				<longitud>-74.06987952</longitud>
+			</estacion>
+			<estacion>
+				<id>40</id>
+				<nombre>Humedal Cordoba</nombre>
+				<latitud>4.70663711</latitud>
+				<longitud>-74.07118003</longitud>
+			</estacion>
+			<estacion>
+				<id>41</id>
+				<nombre>Niza Cl. 127</nombre>
+				<latitud>4.71199179</latitud>
+				<longitud>-74.07231522</longitud>
+			</estacion>
+			<estacion>
+				<id>42</id>
+				<nombre>Suba AV. Boyaca</nombre>
+				<latitud>4.72131997</latitud>
+				<longitud>-74.07477007</longitud>
+			</estacion>
+			<estacion>
+				<id>43</id>
+				<nombre>Gratamira</nombre>
+				<latitud>4.72745068</latitud>
+				<longitud>-74.07469765</longitud>
+			</estacion>
+			<estacion>
+				<id>44</id>
+				<nombre>21 Angeles</nombre>
+				<latitud>4.73547882</latitud>
+				<longitud>-74.08095878</longitud>
+			</estacion>
+			<estacion>
+				<id>45</id>
+				<nombre>Suba TV. 91</nombre>
+				<latitud>4.73892603</latitud>
+				<longitud>-74.08696045</longitud>
+			</estacion>
+			<estacion>
+				<id>46</id>
+				<nombre>La Campiña</nombre>
+				<latitud>4.74267149</latitud>
+				<longitud>-74.09121695</longitud>
+			</estacion>
+			<estacion>
+				<id>47</id>
+				<nombre>Portal de Suba</nombre>
+				<latitud>4.74629535</latitud>
+				<longitud>-74.09470064</longitud>
+			</estacion>
+		</estaciones>
+	</troncal>
+</transmilenio>
