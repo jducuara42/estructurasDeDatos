@@ -51,13 +51,13 @@ class ManejarXML:
                 pass
 
     def obtenerTroncalOrigen(self,direccion):
-        if direccion == 1:
+        if direccion == "1":
             return self.tuplaRuta[3]
         else:
             return self.tuplaRuta[4]
 
     def obtenerTroncalDestino(self,direccion):
-        if direccion == 1:
+        if direccion == "1":
             return self.tuplaRuta[4]
         else:
             return self.tuplaRuta[3]
@@ -84,22 +84,25 @@ class ManejarXML:
         print("\033[1;37m " + "- - - - - - - - - - - - - - ")
 
     def imprimirEstaciones(self):
-        print("\033[1;37m " + "- - - - - - - - - - - - - - ")
+        print("\033[1;37m   " + "- - - - - - - - - - - - - - ")
         for key in self.diccionarioEstaciones:
-            print("\033[1;37m | " + key + " - Estacion " + self.diccionarioEstaciones[key])
-        print("\033[1;37m " + "- - - - - - - - - - - - - - ")
+            print("\033[1;37m   | " + key + " - Estacion " + self.diccionarioEstaciones[key])
+        print("\033[1;37m   " + "- - - - - - - - - - - - - - ")
 
     def imprimirRutas(self):
-        print("\033[1;37m " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
+        print("\033[1;37m   " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
         for key in self.diccionarioRutas:
-            print("\033[1;37m | " + key + " - " + self.diccionarioRutas[key])
-        print("\033[1;37m " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
+            print("\033[1;37m   |     " + key + " - " + self.diccionarioRutas[key])
+        print("\033[1;37m   " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
 
     def imprimirRuta(self):
-        print("\033[1;37m " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
-        print("\033[1;37m | 1. " + self.tuplaRuta[1] + " a " + self.tuplaRuta[2])
-        print("\033[1;37m | 2. " + self.tuplaRuta[2] + " a " + self.tuplaRuta[1])
-        print("\033[1;37m " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
+        print(self.tuplaRuta[0])
+        print(self.tuplaRuta[1])
+        print(self.tuplaRuta[2])
+        print("\033[1;37m   " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
+        print("\033[1;37m   | 1. De " + self.tuplaRuta[1] + " a " + self.tuplaRuta[2])
+        print("\033[1;37m   | 2. De " + self.tuplaRuta[2] + " a " + self.tuplaRuta[1])
+        print("\033[1;37m   " + "- - - - - - - - - - - - - - - - - - - - - - - - - -")
 
     def imprimirTroncal(self, letra):
         return self.diccionarioTroncales[letra]
@@ -107,11 +110,22 @@ class ManejarXML:
     def imprimirEstacion(self, numero):
         return self.diccionarioEstaciones[numero]
 
-    def cargarListaEstaciones(self,origen, destino):
+    def cargarListaEstaciones(self, origen, destino, viaje):
         lista = ListaEnlazada()
-        self.cargarEstaciones(origen, lista)
-        self.cargarEstaciones(destino, lista)
-        lista.imprimirLista()
+
+        #print("viaje: ", viaje[2])
+
+        if viaje[2] == '1':
+            self.cargarEstaciones(origen, lista)
+            self.cargarEstaciones(destino, lista)
+            #print("ingreso 1")
+            lista.imprimirLista(viaje)
+
+        if viaje[2] == '2':
+            self.cargarEstaciones(destino, lista)
+            self.cargarEstaciones(origen, lista)
+            #print("ingreso 2")
+            lista.imprimirLista2(viaje)
 
     def cargarEstaciones(self, letra, lista):
         print("\033[0;32m" + "*** Reading XML...***")
@@ -132,7 +146,3 @@ class ManejarXML:
                         tupla = (id, nombre, latitud, longitud)
                         lista.agregar(tupla)
                         #print(nombre)
-
-    def mostrarListaEstaciones(self):
-        lista = ListaEnlazada()
-        lista.imprimirLista2()

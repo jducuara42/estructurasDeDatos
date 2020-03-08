@@ -7,6 +7,9 @@ class Nodo:
         self.siguiente = None
         self.anterior = None
 
+    def getID(self):
+        return self.id
+
     def getData(self):
         return self.data
 
@@ -21,6 +24,9 @@ class Nodo:
 
     def getAnterior(self):
         return self.anterior
+
+    def setID(self, id):
+        self.id = id
 
     def setData(self, valor):
         self.data = valor
