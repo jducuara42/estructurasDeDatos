@@ -1,0 +1,900 @@
+{
+  "UPZs":
+  [
+    {
+      "numero":53,
+      "nombre": "Marco Fidel Suárez",
+      "localidad": "18-Rafael Uribe",
+      "latitud": 4.570,
+      "longitud": -74.116,
+      "habitantes": 61537
+    },
+    {
+      "numero":54,
+      "nombre": "Marruecos",
+      "localidad": "18-Rafael Uribe",
+      "latitud": 4.560,
+      "longitud": -74.107,
+      "habitantes": 91912
+    },
+    {
+      "numero":9, 
+      "nombre": "Verbenal",
+      "localidad": "01-Usaquén",
+      "latitud": 4.764,
+      "longitud": -74.035,
+      "habitantes": 106800},
+    {
+      "numero":10, 
+      "nombre": "La Uribe",
+      "localidad": "01-Usaquén",
+      "latitud": 4.752,
+      "longitud": -74.029,
+      "habitantes": 18273
+    },
+    {
+      "numero":11, 
+      "nombre": "San Cristóbal Norte",
+      "localidad": "01-Usaquén",
+      "latitud": 4.735,
+      "longitud": -74.024,
+      "habitantes": 68838
+    },
+    {
+      "numero":97,
+      "nombre": "Chicó Lago",
+      "localidad": "02-Chapinero",
+      "latitud": 4.657,
+      "longitud": -74.059,
+      "habitantes": 25253
+    },
+    {
+      "numero":98,
+      "nombre": "Los Alcázares",
+      "localidad": "12-Barrios Unidos",
+      "latitud": 4.659,
+      "longitud": -74.069,
+      "habitantes": 90305
+    },
+    {
+      "numero":12, 
+      "nombre": "Toberín",
+      "localidad": "01-Usaquén",
+      "latitud": 4.742,
+      "longitud": -74.040,
+      "habitantes": 50103
+    },
+    {
+      "numero":13, 
+      "nombre": "Los Cedros",
+      "localidad": "01-Usaquén",
+      "latitud": 4.724,
+      "longitud": -74.036,
+      "habitantes": 102929
+    },
+    {
+      "numero":14, 
+      "nombre": "Usaquén",
+      "localidad": "01-Usaquén",
+      "latitud": 4.566,
+      "longitud": -74.030,
+      "habitantes": 41417
+    },
+    {
+      "numero":16, 
+      "nombre": "Santa Bárbara",
+      "localidad": "01-Usaquén",
+      "latitud": 4.696,
+      "longitud": -74.046,
+      "habitantes": 50433
+    },
+    {
+      "numero":17, 
+      "nombre": "San José de Bavaria",
+      "localidad": "11-Suba",
+      "latitud": 4.764,
+      "longitud": -74.059,
+      "habitantes": 61843
+    },
+    {
+      "numero":18, 
+      "nombre": "Britalia",
+      "localidad": "11-Suba",
+      "latitud": 4.764,
+      "longitud": -74.056,
+      "habitantes": 68203
+    },
+    {
+      "numero":19, 
+      "nombre": "El Prado",
+      "localidad": "11-Suba",
+      "latitud": 4.724,
+      "longitud": -74.054,
+      "habitantes": 118112
+    },
+    {
+      "numero":20, 
+      "nombre": "La Alhambra",
+      "localidad": "11-Suba",
+      "latitud": 4.699,
+      "longitud": -74.062,
+      "habitantes": 52699
+    },
+    {
+      "numero":21, 
+      "nombre": "Los Andes",
+      "localidad": "12-Barrios Unidos",
+      "latitud": 4.683,
+      "longitud": -74.069,
+      "habitantes": 53560
+    },
+    {
+      "numero":22, 
+      "nombre": "12 de Octubre",
+      "localidad": "12-Barrios Unidos",
+      "latitud": 4.672,
+      "longitud": -74.080,
+      "habitantes": 113938
+    },
+    {
+      "numero":23, 
+      "nombre": "Casablanca SUba",
+      "localidad": "11-Suba",
+      "latitud": 4.743,
+      "longitud": -74.067,
+      "habitantes": 42461
+    },
+    {
+      "numero":24, 
+      "nombre": "Niza",
+      "localidad": "11-Suba",
+      "latitud": 4.718,
+      "longitud": -74.075,
+      "habitantes": 90849
+    },
+    {
+      "numero":25, 
+      "nombre": "La Floresta",
+      "localidad": "11-Suba",
+      "latitud": 4.698,
+      "longitud": -74.077,
+      "habitantes": 36511
+    },
+        {
+      "numero":2,
+      "nombre": "La Academia",
+      "localidad": "11-Suba",
+      "latitud": 4.784,
+      "longitud": -74.051,
+      "habitantes": 1070
+    },
+    {
+      "numero":3,
+      "nombre": "Guaymaral",
+      "localidad": "11-Suba",
+      "latitud": 4.819,
+      "longitud": -74.046,
+      "habitantes": 1844
+    },
+    {
+      "numero":26, 
+      "nombre": "Las Ferias",
+      "localidad": "10-Engativá",
+      "latitud": 4.682,
+      "longitud": -74.090,
+      "habitantes": 120245
+    },
+    {
+      "numero":30, 
+      "nombre": "Boyacá Real",
+      "localidad": "10-Engativá",
+      "latitud": 4.695,
+      "longitud": -74.103,
+      "habitantes": 140612
+    },
+    {
+      "numero":31, 
+      "nombre": "Santa Cecilia",
+      "localidad": "10-Engativá",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":32, 
+      "nombre": "San Blas",
+      "localidad": "04-San Cristóbal",
+      "latitud": 4.563,
+      "longitud": -74.083,
+      "habitantes": 88858
+    },
+    {
+      "numero":33, 
+      "nombre": "Sociego",
+      "localidad": "04-San Cristóbal",
+      "latitud": 4.579,
+      "longitud": -74.083,
+      "habitantes": 45979
+    },
+    {
+      "numero":34, 
+      "nombre": "20 de Julio",
+      "localidad": "04-San Cristóbal",
+      "latitud": 4.564,
+      "longitud": -74.094,
+      "habitantes": 88579
+    },
+    {
+      "numero":35, 
+      "nombre": "Ciudad Jardín",
+      "localidad": "15-Antonio Nariño",
+      "latitud": 4.565,
+      "longitud": -74.094,
+      "habitantes": 88579
+    },
+    {
+      "numero":36, 
+      "nombre": "San José",
+      "localidad": "18-Rafael Uribe",
+      "latitud": 4.573,
+      "longitud": -74.104,
+      "habitantes": 44957
+    },
+    {
+      "numero":37, 
+      "nombre": "Santa Isabel",
+      "localidad": "14-Mártires",
+      "latitud": 4.600,
+      "longitud": -74.097,
+      "habitantes": 43534
+    },
+    {
+      "numero":38, 
+      "nombre": "Restrepo",
+      "localidad": "15-Antonio Nariño",
+      "latitud": 4.591,
+      "longitud": -74.104,
+      "habitantes": 77602
+    },
+    {
+      "numero":39, 
+      "nombre": "Quiroga",
+      "localidad": "18-Rafael Uribe",
+      "latitud": 4.582,
+      "longitud": -74.124,
+      "habitantes": 84400
+    },
+    {
+      "numero":40, 
+      "nombre": "Ciudad Montes",
+      "localidad": "16-Puente Aranda",
+      "latitud": 4.606,
+      "longitud": -74.111,
+      "habitantes": 88946
+    },
+    {
+      "numero":41, 
+      "nombre": "Muzú",
+      "localidad": "16-Puente Aranda",
+      "latitud": 4.599,
+      "longitud": -74.127,
+      "habitantes": 50925
+    },
+    {
+      "numero":42, 
+      "nombre": "Venecia",
+      "localidad": "06-Tunjuelito",
+      "latitud": 4.583,
+      "longitud": -74.183,
+      "habitantes": 138677
+    },
+    {
+      "numero":43, 
+      "nombre": "San Rafael",
+      "localidad": "16-Puente Aranda",
+      "latitud": 4.619,
+      "longitud": -74.120,
+      "habitantes": 67170
+    },
+    {
+      "numero":44, 
+      "nombre": "Américas",
+      "localidad": "08-Kennedy",
+      "latitud": 4.622,
+      "longitud": -74.135,
+      "habitantes": 104923
+    },
+    {
+      "numero":45, 
+      "nombre": "Carvajal",
+      "localidad": "08-Kennedy",
+      "latitud": 4.609,
+      "longitud": -74.139,
+      "habitantes": 131122
+    },
+    {
+      "numero":46, 
+      "nombre": "Castilla",
+      "localidad": "08-Kennedy",
+      "latitud": 4.642,
+      "longitud": -74.142,
+      "habitantes": 137569
+    },
+    {
+      "numero":47, 
+      "nombre": "Kennedy Central",
+      "localidad": "08-Kennedy",
+      "latitud": 4.623,
+      "longitud": -74.153,
+      "habitantes": 134646
+    },
+    {
+      "numero":48, 
+      "nombre": "Timiza",
+      "localidad": "08-Kennedy",
+      "latitud": 4.609,
+      "longitud": -74.162,
+      "habitantes": 180881
+    },
+    {
+      "numero":49, 
+      "nombre": "Apogeo",
+      "localidad": "07-Bosa",
+      "latitud": 4.598,
+      "longitud": -74.165,
+      "habitantes": 54555
+    },
+    {
+      "numero":50, 
+      "nombre": "La Gloria",
+      "localidad": "04-San Cristóbal",
+      "latitud": 4.546,
+      "longitud": -74.089,
+      "habitantes": 97177
+    },
+    {
+      "numero":51, 
+      "nombre": "Los Libertadores",
+      "localidad": "04-San Cristóbal",
+      "latitud": 4.533,
+      "longitud": -74.084,
+      "habitantes": 69133
+    },
+    {
+      "numero":52, 
+      "nombre": "La Flora",
+      "localidad": "05-Usme",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 16138
+    },
+    {
+      "numero":55, 
+      "nombre": "Diana Turbay",
+      "localidad": "18-Rafael Uribe",
+      "latitud": 4.546,
+      "longitud": -74.109,
+      "habitantes": 79962
+    },
+    {
+      "numero":56, 
+      "nombre": "Danubio",
+      "localidad": "05-Usme",
+      "latitud": 4.534,
+      "longitud": -74.117,
+      "habitantes": 37615
+    },
+    {
+      "numero":57, 
+      "nombre": "Gran Yomasa",
+      "localidad": "05-Usme",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":58, 
+      "nombre": "Comuneros",
+      "localidad": "05-Usme",
+      "latitud": 4.501,
+      "longitud": -74.115,
+      "habitantes": 79701
+    },
+    {
+      "numero":61, 
+      "nombre": "Ciudad Usme",
+      "localidad": "05-Usme",
+      "latitud": 4.474,
+      "longitud": -74.121,
+      "habitantes": 12680
+    },
+    {
+      "numero":62, 
+      "nombre": "Tunjuelito",
+      "localidad": "06-Tunjuelito",
+      "latitud": 4.561,
+      "longitud": -74.129,
+      "habitantes": 50845
+    },
+    {
+      "numero":63, 
+      "nombre": "El Mochuelo",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.535,
+      "longitud": -74.129,
+      "habitantes": 1521
+    },
+    {
+      "numero":1,
+      "nombre": "Paseo de los Libertadores",
+      "localidad": "01-Usaquén",
+      "latitud": 4.788,
+      "longitud": -74.035,
+      "habitantes": 4460
+    },
+    {
+      "numero":64, 
+      "nombre": "Monteblanco",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.498,
+      "longitud": -74.101,
+      "habitantes": 4815
+    },
+    {
+      "numero":65, 
+      "nombre": "Arborizadora",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.583,
+      "longitud": -74.155,
+      "habitantes": 73280
+    },
+    {
+      "numero":66, 
+      "nombre": "San Francisco",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.565,
+      "longitud": -74.148,
+      "habitantes": 93694
+    },
+    {
+      "numero":67, 
+      "nombre": "Lucero",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.550,
+      "longitud": -74.151,
+      "habitantes": 192427
+    },
+    {
+      "numero":68, 
+      "nombre": "El Tesoro",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.540,
+      "longitud": -74.142,
+      "habitantes": 55587
+    },
+    {
+      "numero":27,
+      "nombre": "Suba",
+      "localidad": "11-Suba",
+      "latitud": 4.752,
+      "longitud": -74.088,
+      "habitantes": 154997
+    },
+    {
+      "numero":28,
+      "nombre": "El Rincón",
+      "localidad": "11-Suba",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":29,
+      "nombre": "Minuto de Dios",
+      "localidad": "10-Engativá",
+      "latitud": 4.709,
+      "longitud": -74.099,
+      "habitantes": 155451
+    },
+    {
+      "numero":69, 
+      "nombre": "Ismael Perdomo",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.586,
+      "longitud": -74.169,
+      "habitantes": 185107
+    },
+    {
+      "numero":70, 
+      "nombre": "Jerusalén",
+      "localidad": "19-Ciudad Bolívar",
+      "latitud": 4.569,
+      "longitud": -74.164,
+      "habitantes": 110529
+    },
+    {
+      "numero":71, 
+      "nombre": "Tibabuyes",
+      "localidad": "11-Suba",
+      "latitud": 4.755,
+      "longitud": -74.111,
+      "habitantes": 258783
+    },
+    {
+      "numero":72, 
+      "nombre": "Bolivia",
+      "localidad": "10-Engativá",
+      "latitud": 4.726,
+      "longitud": -74.116,
+      "habitantes": 89908
+    },
+    {
+      "numero":73, 
+      "nombre": "Garcés Navas",
+      "localidad": "10-Engativá",
+      "latitud": 4.713,
+      "longitud": -74.122,
+      "habitantes": 147914
+    },
+    {
+      "numero":74, 
+      "nombre": "Engativá",
+      "localidad": "10-Engativá",
+      "latitud": 4.716,
+      "longitud": -74.138,
+      "habitantes": 128704
+    },
+    {
+      "numero":75, 
+      "nombre": "Fontibón",
+      "localidad": "09-Fontibón",
+      "latitud": 4.677,
+      "longitud": -74.144,
+      "habitantes": 175292
+    },
+    {
+      "numero":76, 
+      "nombre": "Fontibón-San Pablo",
+      "localidad": "09-Fontibón",
+      "latitud": 4.696,
+      "longitud": -74.161,
+      "habitantes": 40160
+    },
+    {
+      "numero":77, 
+      "nombre": "Zona Franca",
+      "localidad": "09-Fontibón",
+      "latitud": 4.681,
+      "longitud": -74.157,
+      "habitantes": 42754
+    },
+    {
+      "numero":78, 
+      "nombre": "Tintal Norte",
+      "localidad": "08-Kennedy",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 69785
+    },
+    {
+      "numero":79, 
+      "nombre": "Calandaima",
+      "localidad": "08-Kennedy",
+      "latitud": 4.647,
+      "longitud": -74.161,
+      "habitantes": 0
+    },
+    {
+      "numero":80, 
+      "nombre": "Corabastos",
+      "localidad": "08-Kennedy",
+      "latitud": 4.631,
+      "longitud": -74.160,
+      "habitantes": 77028
+    },
+    {
+      "numero":81, 
+      "nombre": "Gran Britalia",
+      "localidad": "08-Kennedy",
+      "latitud": 4.621,
+      "longitud": -74.174,
+      "habitantes": 90548
+    },
+    {
+      "numero":82, 
+      "nombre": "Patio Bonito",
+      "localidad": "08-Kennedy",
+      "latitud": 4.636,
+      "longitud": -74.167,
+      "habitantes": 199297
+    },
+    {
+      "numero":83, 
+      "nombre": "Las Margaritas",
+      "localidad": "08-Kennedy",
+      "latitud": 4.638,
+      "longitud": -74.178,
+      "habitantes": 15525
+    },
+    {
+      "numero":84, 
+      "nombre": "Bosa Occidental",
+      "localidad": "07-Bosa",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":85, 
+      "nombre": "Bosa Central",
+      "localidad": "07-Bosa",
+      "latitud": 4.605,
+      "longitud": -74.194,
+      "habitantes": 277714
+    },
+    {
+      "numero":86, 
+      "nombre": "El Porvenir",
+      "localidad": "07-Bosa",
+      "latitud": 4.642,
+      "longitud": -74.193,
+      "habitantes": 85327
+    },
+    {
+      "numero":87, 
+      "nombre": "Tintal Sur",
+      "localidad": "07-Bosa",
+      "latitud": 4.629,
+      "longitud": -74.210,
+      "habitantes": 74680
+    },
+    {
+      "numero":88, 
+      "nombre": "El Refugio",
+      "localidad": "02-Chapinero",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":89, 
+      "nombre": "San Isidro-Patios",
+      "localidad": "02-Chapinero",
+      "latitud": 4.668,
+      "longitud": -74.020,
+      "habitantes": 16854
+    },
+    {
+      "numero":90, 
+      "nombre": "Pardo Rubio",
+      "localidad": "02-Chapinero",
+      "latitud": 4.640,
+      "longitud": -74.059,
+      "habitantes": 35572
+    },
+    {
+      "numero":91, 
+      "nombre": "Sagrado Corazón",
+      "localidad": "03-Santa Fe",
+      "latitud": 4.621,
+      "longitud": -74.067,
+      "habitantes": 5207
+    },
+    {
+      "numero":92, 
+      "nombre": "La Macarena",
+      "localidad": "03-Santa Fe",
+      "latitud": 4.611,
+      "longitud": -74.063,
+      "habitantes": 11712
+    },
+    {
+      "numero":93, 
+      "nombre": "Las Nieves",
+      "localidad": "03-Santa Fe",
+      "latitud": 4.606,
+      "longitud": -74.072,
+      "habitantes": 12225
+    },
+    {
+      "numero":94, 
+      "nombre": "La Candelaria",
+      "localidad": "17-La Candelaria",
+      "latitud": 4.590,
+      "longitud": -74.081,
+      "habitantes": 19479
+    },
+    {
+      "numero":95, 
+      "nombre": "Las Cruces",
+      "localidad": "03-Santa Fe",
+      "latitud": 4.588,
+      "longitud": -74.081,
+      "habitantes": 19479
+    },
+    {
+      "numero":96, 
+      "nombre": "Lourdes",
+      "localidad": "03-Santa Fe",
+      "latitud": 4.583,
+      "longitud": -74.072,
+      "habitantes": 42096
+    },
+    {
+      "numero":99, 
+      "nombre": "Chapinero",
+      "localidad": "02-Chapinero",
+      "latitud": 4.646,
+      "longitud": -74.062,
+      "habitantes": 18486
+    },
+    {
+      "numero":100, 
+      "nombre": "Galerías",
+      "localidad": "13-Teusaquillo",
+      "latitud": 4.643,
+      "longitud": -74.075,
+      "habitantes": 24888
+    },
+    {
+      "numero":101, 
+      "nombre": "Teusaquillo",
+      "localidad": "13-Teusaquillo",
+      "latitud": 4.625,
+      "longitud": -74.071,
+      "habitantes": 19996
+    },
+    {
+      "numero":102, 
+      "nombre": "La Sabana",
+      "localidad": "14-Mártires",
+      "latitud": 4.610,
+      "longitud": -74.084,
+      "habitantes": 50596
+    },
+    {
+      "numero":103, 
+      "nombre": "Parque Salitre",
+      "localidad": "12-Barrios Unidos",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":104, 
+      "nombre": "Parque Simón Bolívar",
+      "localidad": "13-Teusaquillo",
+      "latitud": 4.638,
+      "longitud": -74.088,
+      "habitantes": 2427
+    },
+    {
+      "numero":15,
+      "nombre": "Country Club",
+      "localidad": "01-Usaquén",
+      "latitud": 4.712,
+      "longitud": -74.043,
+      "habitantes": 23528
+    },
+    {
+      "numero":105, 
+      "nombre": "Jardín Botánico",
+      "localidad": "10-Engativá",
+      "latitud": 4.662,
+      "longitud": -74.103,
+      "habitantes": 2562
+    },
+    {
+      "numero":106, 
+      "nombre": "La Esmeralda",
+      "localidad": "13-Teusaquillo",
+      "latitud": 4.649,
+      "longitud": -74.087,
+      "habitantes": 25009
+    },
+    {
+      "numero":107, 
+      "nombre": "Quinta Paredes",
+      "localidad": "13-Teusaquillo",
+      "latitud": 4.630,
+      "longitud": -74.089,
+      "habitantes": 19346
+    },
+    {
+      "numero":108, 
+      "nombre": "Zona Industrial",
+      "localidad": "16-Puente Aranda",
+      "latitud": 4.618,
+      "longitud": -74.098,
+      "habitantes": 3667
+    },
+    {
+      "numero":109, 
+      "nombre": "Ciudad Salitre Oriental",
+      "localidad": "13-Teusaquillo",
+      "latitud": 4.509,
+      "longitud": -74.091,
+      "habitantes": 0
+    },
+    {
+      "numero":110, 
+      "nombre": "Ciudad Salitre Occidente",
+      "localidad": "09-Fontibón",
+      "latitud": 4.654,
+      "longitud": -74.110,
+      "habitantes": 47985
+    },
+    {
+      "numero":111, 
+      "nombre": "Puente Aranda",
+      "localidad": "16-Puente Aranda",
+      "latitud": 4.634,
+      "longitud": -74.106,
+      "habitantes": 14508
+    },
+    {
+      "numero":112, 
+      "nombre": "Granjas de Techo",
+      "localidad": "09-Fontibón",
+      "latitud": 4.652,
+      "longitud": -74.125,
+      "habitantes": 24285
+    },
+    {
+      "numero":113, 
+      "nombre": "Bavaria",
+      "localidad": "08-Kennedy",
+      "latitud": 4.638,
+      "longitud": -74.128,
+      "habitantes": 26207
+    },
+    {
+      "numero":114, 
+      "nombre": "Modelia",
+      "localidad": "09-Fontibón",
+      "latitud": 4.633,
+      "longitud": -74.207,
+      "habitantes": 51304
+    },
+    {
+      "numero":115, 
+      "nombre": "Capellanía",
+      "localidad": "09-Fontibón",
+      "latitud": 4.680,
+      "longitud": -74.127,
+      "habitantes": 20780
+    },
+    {
+      "numero":116, 
+      "nombre": "Álamos",
+      "localidad": "10-Engativá",
+      "latitud": 4.685,
+      "longitud": -74.117,
+      "habitantes": 13729
+    },
+    {
+      "numero":117, 
+      "nombre": "Aeropuerto Eldorado",
+      "localidad": "09-Fontibón",
+      "latitud": 4.701,
+      "longitud": -74.147,
+      "habitantes": 956
+    },
+    {
+      "numero":59,
+      "nombre": "Alfonso López",
+      "localidad": "05-Usme",
+      "latitud": 4.495,
+      "longitud": -74.103,
+      "habitantes": 65798
+    },
+    {
+      "numero":60,
+      "nombre": "Parque Entrenubes",
+      "localidad": "05-Usme",
+      "latitud": 4.527,
+      "longitud": -74.100,
+      "habitantes": 2471
+    }
+  ]
+}
